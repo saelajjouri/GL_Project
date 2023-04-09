@@ -1,0 +1,29 @@
+INFO    2023-03-28 11:55:53,644 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-03-28 11:55:53,656 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-03-28 12:08:39,973 [http-nio-8080-exec-6] User App  - Opened database successfully
+INFO    2023-03-28 12:08:39,973 [http-nio-8080-exec-6] User App  - Database created
+INFO    2023-03-28 12:08:51,008 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-03-28 12:08:51,014 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-03-28 12:10:21,792 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-03-28 12:10:21,798 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-04 12:24:39,396 [http-nio-8080-exec-8] User App  - Opened database successfully
+INFO    2023-04-04 12:24:39,410 [http-nio-8080-exec-8] User App  - Database created
+ERROR   2023-04-04 12:24:39,426 [http-nio-8080-exec-8] User App  - java.sql.SQLException: [SQLITE_CONSTRAINT]  Abort due to constraint violation (NOT NULL constraint failed: User.USERNAME)
+INFO    2023-04-04 12:26:42,501 [http-nio-8080-exec-6] User App  - Opened database successfully
+INFO    2023-04-04 12:26:42,509 [http-nio-8080-exec-6] User App  - Database created
+ERROR   2023-04-04 12:26:42,516 [http-nio-8080-exec-6] User App  - java.sql.SQLException: [SQLITE_CONSTRAINT]  Abort due to constraint violation (NOT NULL constraint failed: User.USERNAME)
+ERROR   2023-04-04 12:26:42,516 [http-nio-8080-exec-6] User App  - java.sql.SQLException: [SQLITE_CONSTRAINT]  Abort due to constraint violation (NOT NULL constraint failed: User.USERNAME)
+INFO    2023-04-04 12:27:06,046 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-04 12:27:06,060 [http-nio-8080-exec-2] User App  - Database created
+ERROR   2023-04-04 12:27:41,067 [http-nio-8080-exec-10] User App  - java.sql.SQLException: [SQLITE_CONSTRAINT]  Abort due to constraint violation (NOT NULL constraint failed: User.USERNAME)
+ERROR   2023-04-04 12:27:41,076 [http-nio-8080-exec-10] User App  - java.sql.SQLException: [SQLITE_CONSTRAINT]  Abort due to constraint violation (NOT NULL constraint failed: User.USERNAME)
+ERROR   2023-04-04 12:30:33,022 [http-nio-8080-exec-9] User App  - java.sql.SQLException: [SQLITE_CONSTRAINT]  Abort due to constraint violation (NOT NULL constraint failed: User.USERNAME)
+ERROR   2023-04-04 12:30:33,031 [http-nio-8080-exec-9] User App  - java.sql.SQLException: [SQLITE_CONSTRAINT]  Abort due to constraint violation (NOT NULL constraint failed: User.USERNAME)
+INFO    2023-04-05 15:13:27,086 [http-nio-8080-exec-6] User App  - Opened database successfully
+INFO    2023-04-05 15:13:27,099 [http-nio-8080-exec-6] User App  - Database created
+INFO    2023-04-05 15:16:27,792 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-05 15:16:27,801 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-05 15:20:05,433 [http-nio-8080-exec-4] User App  - Opened database successfully
+INFO    2023-04-05 15:20:05,442 [http-nio-8080-exec-4] User App  - Database created
+INFO    2023-04-05 15:20:55,492 [http-nio-8080-exec-1] User App  - Opened database successfully
+INFO    2023-04-05 15:20:55,500 [http-nio-8080-exec-1] User App  - Database created
