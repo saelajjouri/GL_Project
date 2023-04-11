@@ -27,3 +27,126 @@ INFO    2023-04-05 15:20:05,433 [http-nio-8080-exec-4] User App  - Opened databa
 INFO    2023-04-05 15:20:05,442 [http-nio-8080-exec-4] User App  - Database created
 INFO    2023-04-05 15:20:55,492 [http-nio-8080-exec-1] User App  - Opened database successfully
 INFO    2023-04-05 15:20:55,500 [http-nio-8080-exec-1] User App  - Database created
+INFO    2023-04-09 15:42:19,821 [http-nio-8080-exec-6] User App  - Opened database successfully
+INFO    2023-04-09 15:42:19,827 [http-nio-8080-exec-6] User App  - Table 'Users' Deleted
+INFO    2023-04-09 15:42:19,831 [http-nio-8080-exec-6] User App  - Database created
+INFO    2023-04-09 15:42:19,837 [http-nio-8080-exec-6] User App  - 3 users added for test
+INFO    2023-04-09 16:08:08,587 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-09 16:08:08,592 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-09 16:09:37,903 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-09 16:09:37,909 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-09 16:10:32,315 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-09 16:10:32,320 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-09 16:12:05,823 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-09 16:12:05,827 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-09 16:14:07,431 [http-nio-8080-exec-9] User App  - mohammed existant en base de donnée
+INFO    2023-04-09 16:16:05,292 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-09 16:16:05,297 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-09 16:16:13,992 [http-nio-8080-exec-5] User App  - mohammed existant en base de donnée
+INFO    2023-04-09 16:18:50,670 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-09 16:18:50,675 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-09 17:46:01,768 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-09 17:46:01,773 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-09 17:49:51,249 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-09 17:49:51,253 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-09 17:52:10,272 [http-nio-8080-exec-1] User App  - Opened database successfully
+INFO    2023-04-09 17:52:10,277 [http-nio-8080-exec-1] User App  - Database created
+INFO    2023-04-09 17:52:54,421 [http-nio-8080-exec-5] User App  - Opened database successfully
+INFO    2023-04-09 17:52:54,429 [http-nio-8080-exec-5] User App  - Database created
+INFO    2023-04-09 17:53:58,683 [http-nio-8080-exec-4] User App  - Opened database successfully
+INFO    2023-04-09 17:53:58,688 [http-nio-8080-exec-4] User App  - Database created
+INFO    2023-04-09 17:54:05,332 [http-nio-8080-exec-3] User App  - mohammed existant en base de donnée
+INFO    2023-04-09 17:55:37,118 [http-nio-8080-exec-9] User App  - mohammed existant en base de donnée
+INFO    2023-04-09 17:55:51,277 [http-nio-8080-exec-2] User App  - mohammed existant en base de donnée
+INFO    2023-04-09 17:56:22,706 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-09 17:56:22,711 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-09 17:56:28,441 [http-nio-8080-exec-3] User App  - mohammed existant en base de donnée
+INFO    2023-04-09 18:00:33,096 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-09 18:00:33,101 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-09 18:01:41,315 [http-nio-8080-exec-4] User App  - Opened database successfully
+INFO    2023-04-09 18:01:41,320 [http-nio-8080-exec-4] User App  - Database created
+INFO    2023-04-09 18:07:34,965 [http-nio-8080-exec-4] User App  - Opened database successfully
+INFO    2023-04-09 18:07:34,973 [http-nio-8080-exec-4] User App  - Database created
+INFO    2023-04-09 18:18:55,762 [http-nio-8080-exec-4] User App  - Opened database successfully
+INFO    2023-04-09 18:18:55,768 [http-nio-8080-exec-4] User App  - Database created
+INFO    2023-04-09 18:22:07,142 [http-nio-8080-exec-7] User App  - Opened database successfully
+INFO    2023-04-09 18:22:07,147 [http-nio-8080-exec-7] User App  - Database created
+INFO    2023-04-10 14:06:39,768 [http-nio-8080-exec-5] User App  - Opened database successfully
+INFO    2023-04-10 14:06:39,772 [http-nio-8080-exec-5] User App  - Database created
+INFO    2023-04-10 14:06:47,516 [http-nio-8080-exec-6] User App  - mohammed existant en base de donnée
+INFO    2023-04-10 15:19:15,632 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-10 15:19:15,655 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-10 15:39:12,920 [http-nio-8080-exec-8] User App  - Opened database successfully
+INFO    2023-04-10 15:39:12,924 [http-nio-8080-exec-8] User App  - Database created
+INFO    2023-04-10 16:48:28,513 [http-nio-8080-exec-8] User App  - Opened database successfully
+INFO    2023-04-10 16:48:28,517 [http-nio-8080-exec-8] User App  - Database created
+INFO    2023-04-10 16:51:49,161 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 16:51:49,167 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 16:55:05,767 [http-nio-8080-exec-16] User App  - Opened database successfully
+INFO    2023-04-10 16:55:05,771 [http-nio-8080-exec-16] User App  - Database created
+INFO    2023-04-10 17:00:53,672 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 17:00:53,679 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 17:03:33,255 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 17:03:33,263 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 17:09:28,946 [http-nio-8080-exec-5] User App  - Opened database successfully
+INFO    2023-04-10 17:09:28,953 [http-nio-8080-exec-5] User App  - Database created
+INFO    2023-04-10 17:13:43,247 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 17:13:43,253 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 17:14:23,154 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 17:14:23,160 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 17:15:17,774 [http-nio-8080-exec-4] User App  - Opened database successfully
+INFO    2023-04-10 17:15:17,779 [http-nio-8080-exec-4] User App  - Database created
+INFO    2023-04-10 17:20:09,229 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-10 17:20:09,234 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-10 17:26:54,163 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-10 17:26:54,168 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-10 17:28:58,641 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 17:28:58,647 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 17:33:05,872 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 17:33:05,880 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 17:37:55,481 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 17:37:55,488 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 17:38:27,596 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-10 17:38:27,604 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-10 17:40:31,867 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 17:40:31,872 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 17:49:27,510 [http-nio-8080-exec-5] User App  - Opened database successfully
+INFO    2023-04-10 17:49:27,515 [http-nio-8080-exec-5] User App  - Database created
+INFO    2023-04-10 17:56:18,099 [http-nio-8080-exec-4] User App  - Opened database successfully
+INFO    2023-04-10 17:56:18,107 [http-nio-8080-exec-4] User App  - Database created
+INFO    2023-04-10 18:03:00,187 [http-nio-8080-exec-5] User App  - Opened database successfully
+INFO    2023-04-10 18:03:00,195 [http-nio-8080-exec-5] User App  - Database created
+INFO    2023-04-10 18:04:16,926 [http-nio-8080-exec-4] User App  - Opened database successfully
+INFO    2023-04-10 18:04:16,931 [http-nio-8080-exec-4] User App  - Database created
+INFO    2023-04-10 22:32:06,745 [http-nio-8080-exec-7] User App  - Opened database successfully
+INFO    2023-04-10 22:32:06,758 [http-nio-8080-exec-7] User App  - Database created
+INFO    2023-04-10 22:34:32,593 [http-nio-8080-exec-1] User App  - Opened database successfully
+INFO    2023-04-10 22:34:32,601 [http-nio-8080-exec-1] User App  - Database created
+INFO    2023-04-10 22:41:44,685 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 22:41:44,699 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 23:02:59,020 [http-nio-8080-exec-4] User App  - Opened database successfully
+INFO    2023-04-10 23:02:59,028 [http-nio-8080-exec-4] User App  - Database created
+INFO    2023-04-10 23:05:34,561 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 23:05:34,573 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 23:09:53,563 [http-nio-8080-exec-1] User App  - Opened database successfully
+INFO    2023-04-10 23:09:53,567 [http-nio-8080-exec-1] User App  - Database created
+INFO    2023-04-10 23:11:13,604 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 23:11:13,609 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 23:20:08,313 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 23:20:08,320 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 23:21:25,754 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-10 23:21:25,759 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-10 23:24:06,317 [http-nio-8080-exec-9] User App  - Opened database successfully
+INFO    2023-04-10 23:24:06,326 [http-nio-8080-exec-9] User App  - Database created
+INFO    2023-04-10 23:24:59,623 [http-nio-8080-exec-10] User App  - Opened database successfully
+INFO    2023-04-10 23:24:59,626 [http-nio-8080-exec-10] User App  - Database created
+INFO    2023-04-10 23:30:47,321 [http-nio-8080-exec-3] User App  - Opened database successfully
+INFO    2023-04-10 23:30:47,330 [http-nio-8080-exec-3] User App  - Database created
+INFO    2023-04-10 23:32:16,982 [http-nio-8080-exec-1] User App  - Opened database successfully
+INFO    2023-04-10 23:32:16,987 [http-nio-8080-exec-1] User App  - Database created
+INFO    2023-04-11 11:52:19,600 [http-nio-8080-exec-7] User App  - Opened database successfully
+INFO    2023-04-11 11:52:19,608 [http-nio-8080-exec-7] User App  - Database created
+INFO    2023-04-11 11:57:23,921 [http-nio-8080-exec-2] User App  - Opened database successfully
+INFO    2023-04-11 11:57:23,929 [http-nio-8080-exec-2] User App  - Database created
+INFO    2023-04-11 12:25:03,472 [http-nio-8080-exec-9] User App  - Opened database successfully
+INFO    2023-04-11 12:25:03,472 [http-nio-8080-exec-9] User App  - Database created
